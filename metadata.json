@@ -1,0 +1,6 @@
+{
+  "name": "Chan's School - Learning for the better life",
+  "description": "찬스 스쿨(Chan's School) 공식 홈페이지. Learning for the better life 슬로건 아래 깊이 있는 배움과 미래 역량을 키우는 프레스티지 아카데미.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
